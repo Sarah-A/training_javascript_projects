@@ -1,0 +1,7 @@
+{
+    "name": "javascript-sandbox",
+    "version": "1.0.0",
+    "scripts": {
+    "test": "mocha"
+    }
+}
